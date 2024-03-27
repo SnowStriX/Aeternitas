@@ -1,13 +1,13 @@
-<<<<<<< HEAD
+
 @import url(https://pro.fontawesome.com/releases/v5.11.2/css/all.css);
 
 body{
     display: flex;
     flex-direction: column;
-=======
+
 html{
 	scroll-behavior: smooth;
->>>>>>> parent of 5436e73 (Aboba)
+
 }
 
 * {
@@ -34,8 +34,7 @@ html{
     color: white;
     text-decoration: none;
     border-radius: 10px;
-    
-<<<<<<< HEAD
+
 }
 
 .carousel{
@@ -427,6 +426,3 @@ body #user-button {
   body .options .option .label .info .sub {
     transition-delay: 0.1s;
   }
-=======
-}
->>>>>>> parent of 5436e73 (Aboba)
