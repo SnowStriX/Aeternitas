@@ -1,8 +1,21 @@
+<<<<<<< HEAD
 @import url(https://pro.fontawesome.com/releases/v5.11.2/css/all.css);
 
 body{
     display: flex;
+    flex-direction: column;
+=======
+html{
+	scroll-behavior: smooth;
+>>>>>>> parent of 5436e73 (Aboba)
 }
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -22,6 +35,16 @@ body{
     text-decoration: none;
     border-radius: 10px;
     
+<<<<<<< HEAD
+}
+
+.carousel{
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
 }
 
 :root {
@@ -232,16 +255,7 @@ body #user-button {
     height: 300% !important;
   }
   
-  body {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    height: 100vh;
-    font-family: "Roboto", sans-serif;
-    transition: 0.25s;
-  }
+
   body.dark {
     background: #232223;
     color: white;
@@ -413,3 +427,6 @@ body #user-button {
   body .options .option .label .info .sub {
     transition-delay: 0.1s;
   }
+=======
+}
+>>>>>>> parent of 5436e73 (Aboba)
